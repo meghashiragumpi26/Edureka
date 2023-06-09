@@ -1,7 +1,7 @@
 # Edureka
 This is first repository
 <h1 align = "center">Hello, I'm Megha H Shiragumpi 👋</h1>
-<h3 align = "center">I'M LEARNING WEB DEVELOPMENT IN NIRMAAN</h3>
+<h3 align = "center">I'M LEARNING WEB DEVELOPMENT IN NIRMAAN SUPPORTED BY INFOSYS FOUNDATION</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/megha-shiragumpi-138212262/)">
   <img align="left" alt="Megha Shiragumpi Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
