@@ -1,5 +1,5 @@
 # Edureka
-This is first repository
+This is first Repository
 <h1 align = "center">Hello, I'm Megha H Shiragumpi 👋</h1>
 <h3 align = "center">CERTIFIED FULL STACK WEB DEVELOPMENT IN GIT IT ACADEMY</h3>
 <h3 align = "center">CERTIFIED WEB DEVELOPMENT IN NIRMAAN ORGANIZATION SUPPORTED BY INFOSYS FOUNDATION</h3>
