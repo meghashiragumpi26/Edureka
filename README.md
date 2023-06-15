@@ -1,3 +1,4 @@
+https://github.com/meghashiragumpi26/Edureka/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png
 <h1 align = "center">Hello, I'm Megha H Shiragumpi 👋</h1>
 <h3 align = "center">CERTIFIED FULL STACK WEB DEVELOPMENT IN GIT IT ACADEMY</h3>
 <h3 align = "center">CERTIFIED WEB DEVELOPMENT IN NIRMAAN ORGANIZATION SUPPORTED BY INFOSYS FOUNDATION</h3>
